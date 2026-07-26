@@ -100,29 +100,29 @@ Informatics Engineer specializing in building robust, performant web application
   *Pixel-perfect corporate identity platform and responsive interface.*
 
   <p align="center">
-    <img src="https://github.com" alt="OswaTech Homepage" width="90%" />
+    <img src="./oswa1.png" alt="OswaTech Homepage" width="90%" />
   </p>
-  
+  <br>
   <p align="center">
-    <img src="https://github.com" alt="OswaTech About Section" width="90%" />
+    <img src="./oswa2.png" alt="OswaTech About Section" width="90%" />
   </p>
-  
+  <br>
   <p align="center">
-    <img src="https://github.com" alt="OswaTech Internal Page" width="90%" />
+    <img src="./oswa3.png" alt="OswaTech Internal Page" width="90%" />
   </p>
-  
+  <br>
   <p align="center">
-    <img src="https://github.com" alt="OswaTech Core Feature" width="90%" />
+    <img src="./oswa4.png" alt="OswaTech Core Feature" width="90%" />
   </p>
-  
+  <br>
   <p align="center">
-    <img src="https://github.com" alt="OswaTech Portfolio Section" width="90%" />
+    <img src="./oswa5.png" alt="OswaTech Portfolio Section" width="90%" />
   </p>
-
+  <br>
   <p align="center">
-    <img src="https://github.com" alt="OswaTech Mobile 1" width="43%" />
+    <img src="./oswa_m1.png" alt="OswaTech Mobile 1" width="43%" />
     &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="https://github.com" alt="OswaTech Mobile 2" width="43%" />
+    <img src="./oswa_m2.png" alt="OswaTech Mobile 2" width="43%" />
   </p>
 
   ---
@@ -131,27 +131,27 @@ Informatics Engineer specializing in building robust, performant web application
   *Advanced recruitment ecosystem and data analytics statistics management panel.*
 
   <p align="center">
-    <img src="https://github.com" alt="Job Dashboard UI" width="90%" />
+    <img src="./job1.png" alt="Job Dashboard UI" width="90%" />
   </p>
-  
+  <br>
   <p align="center">
-    <img src="https://github.com" alt="Job Management Panel" width="90%" />
+    <img src="./job2.png" alt="Job Management Panel" width="90%" />
   </p>
-  
+  <br>
   <p align="center">
-    <img src="https://github.com" alt="Job Statistics" width="90%" />
+    <img src="./job3.png" alt="Job Statistics" width="90%" />
   </p>
-  
+  <br>
   <p align="center">
-    <img src="https://github.com" alt="Job Interface View" width="90%" />
+    <img src="./job4.png" alt="Job Interface View" width="90%" />
   </p>
-  
+  <br>
   <p align="center">
-    <img src="https://github.com" alt="Job Search Interface" width="90%" />
+    <img src="./job5.png" alt="Job Search Interface" width="90%" />
   </p>
-  
+  <br>
   <p align="center">
-    <img src="https://github.com" alt="Job Mobile Analytics" width="45%" />
+    <img src="./job_m1.png" alt="Job Mobile Analytics" width="45%" />
   </p>
 
 </details>
