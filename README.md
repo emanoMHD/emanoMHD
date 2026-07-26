@@ -106,6 +106,8 @@ Informatics Engineer specializing in building robust, performant web application
 </p>
 
 ---
+<img width="509" height="904" alt="1-m" src="https://github.com/user-attachments/assets/d119ab3f-f4f0-4401-ae52-e3cccd891841" />
+
 
 ### 📫 Let's Connect!
 - 📧 **Email:** [eman98.eng@gmail.com](mailto:eman98.eng@gmail.com)
