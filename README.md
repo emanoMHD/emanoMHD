@@ -95,58 +95,65 @@ Informatics Engineer specializing in building robust, performant web application
 <details open>
   <summary><b>📺 Production Web Applications Gallery</b></summary>
   <br>
-  <p align="center"><i>A unified showcase of production-ready Angular applications, dashboards, and responsive platforms.</i></p>
+
+  #### 🌐 OswaTech Corporate Website
+  *Pixel-perfect corporate identity platform and responsive interface.*
+
+  <p align="center">
+    <img src="https://github.com" alt="OswaTech Homepage" width="90%" />
+  </p>
   
-  <table align="center" border="0" width="100%">
-    <tr>
-      <td align="center" width="50%" valign="top">
-        <b>OswaTech Corporate Website</b><br><i>Pixel-perfect corporate identity application</i><br><br>
-        <p align="center">
-          <img src="https://github.com" alt="OswaTech Homepage" width="100%" />
-        </p>
-        <p align="center">
-          <img src="https://github.com" alt="OswaTech About Section" width="100%" />
-        </p>
-        <p align="center">
-          <img src="https://github.com" alt="OswaTech Internal Page" width="100%" />
-        </p>
-        <p align="center">
-          <img src="https://github.com" alt="OswaTech Core Feature" width="100%" />
-        </p>
-        <p align="center">
-          <img src="https://github.com" alt="OswaTech Portfolio Section" width="100%" />
-        </p>
-        <table border="0" width="100%">
-          <tr>
-            <td width="48%"><img src="https://github.com" alt="OswaTech Mobile 1" width="100%" /></td>
-            <td width="4%"></td>
-            <td width="48%"><img src="https://github.com" alt="OswaTech Mobile 2" width="100%" /></td>
-          </tr>
-        </table>
-      </td>
-      <td align="center" width="50%" valign="top">
-        <b>Job Recruitment Platform & Dashboard</b><br><i>Responsive recruitment ecosystem and analytics interface</i><br><br>
-        <p align="center">
-          <img src="https://github.com" alt="Job Dashboard UI" width="100%" />
-        </p>
-        <p align="center">
-          <img src="https://github.com" alt="Job Management Panel" width="100%" />
-        </p>
-        <p align="center">
-          <img src="https://github.com" alt="Job Statistics" width="100%" />
-        </p>
-        <p align="center">
-          <img src="https://github.com" alt="Job Interface View" width="100%" />
-        </p>
-        <p align="center">
-          <img src="https://github.com" alt="Job Search Interface" width="100%" />
-        </p>
-        <p align="center">
-          <img src="https://github.com" alt="Job Mobile Analytics" width="50%" />
-        </p>
-      </td>
-    </tr>
-  </table>
+  <p align="center">
+    <img src="https://github.com" alt="OswaTech About Section" width="90%" />
+  </p>
+  
+  <p align="center">
+    <img src="https://github.com" alt="OswaTech Internal Page" width="90%" />
+  </p>
+  
+  <p align="center">
+    <img src="https://github.com" alt="OswaTech Core Feature" width="90%" />
+  </p>
+  
+  <p align="center">
+    <img src="https://github.com" alt="OswaTech Portfolio Section" width="90%" />
+  </p>
+
+  <p align="center">
+    <img src="https://github.com" alt="OswaTech Mobile 1" width="43%" />
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://github.com" alt="OswaTech Mobile 2" width="43%" />
+  </p>
+
+  ---
+
+  #### 💼 Job Recruitment Platform & Dashboard
+  *Advanced recruitment ecosystem and data analytics statistics management panel.*
+
+  <p align="center">
+    <img src="https://github.com" alt="Job Dashboard UI" width="90%" />
+  </p>
+  
+  <p align="center">
+    <img src="https://github.com" alt="Job Management Panel" width="90%" />
+  </p>
+  
+  <p align="center">
+    <img src="https://github.com" alt="Job Statistics" width="90%" />
+  </p>
+  
+  <p align="center">
+    <img src="https://github.com" alt="Job Interface View" width="90%" />
+  </p>
+  
+  <p align="center">
+    <img src="https://github.com" alt="Job Search Interface" width="90%" />
+  </p>
+  
+  <p align="center">
+    <img src="https://github.com" alt="Job Mobile Analytics" width="45%" />
+  </p>
+
 </details>
 
 ---
