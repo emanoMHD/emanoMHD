@@ -90,6 +90,51 @@ Informatics Engineer specializing in building robust, performant web application
 
 ---
 
+### 📸 Featured Project Showcases
+
+<details open>
+  <summary><b>📺 Production Web Applications Gallery</b></summary>
+  <br>
+  <p align="center"><i>A unified showcase of production-ready Angular applications, dashboards, and responsive platforms.</i></p>
+  
+  <table align="center" border="0">
+    <tr>
+      <td align="center" width="50%">
+        <b>OswaTech Corporate Website</b><br><i>Pixel-perfect corporate identity application</i><br><br>
+<img width="1904" height="968" alt="1" src="https://github.com/user-attachments/assets/ee172943-7bb3-4635-8082-43328dc9bbf1" /><img width="1880" height="913" alt="2" src="https://github.com/user-attachments/assets/5b93f687-df2c-4b11-aec3-c052fe4ee260" />
+
+        <img width="1843" height="916" alt="1" src="https://github.com/user-attachments/assets/c83d0808-ec0e-4705-8298-18fef34caf61" />
+<img width="1880" height="916" alt="6" src="https://github.com/user-attachments/assets/78d73f8c-669f-4155-8209-7b05d7262a5c" />
+<img width="1892" height="921" alt="4" src="https://github.com/user-attachments/assets/467bd2d9-9b41-4f36-8a3d-b7d6135235e9" />
+<img width="501" height="899" alt="3-m" src="https://github.com/user-attachments/assets/5c3558c2-5d02-405a-8d77-98c16ba3558c" />
+<img width="468" height="796" alt="2-m" src="https://github.com/user-attachments/assets/6e61a3d6-671a-4849-8c43-f72b8f9fce7d" />
+
+      </td>
+      <td align="center" width="50%">
+        <b>Job Recruitment Website</b><br><i>Responsive recruitment platform</i><br><br>
+        <img src="YOUR_JOB_WEBSITE_IMAGE_URL" alt="Job Website Screenshot" style="border-radius: 6px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="50%">
+        <b>Job Admin Dashboard</b><br><i>Management and statistics interface</i><br><br>
+<img width="487" height="742" alt="6" src="https://github.com/user-attachments/assets/637daf2e-009b-4f0c-a7ea-47ef503595a2" />
+<img width="1864" height="923" alt="4" src="https://github.com/user-attachments/assets/3178d8d6-d449-43ed-a600-0d3c56493c36" />
+<img width="1882" height="901" alt="5" src="https://github.com/user-attachments/assets/a2b83e87-4adb-45e2-a521-33ecea123898" />
+<img width="1860" height="784" alt="3" src="https://github.com/user-attachments/assets/5c5d3f77-28fa-4f59-858e-e2b527d47d00" />
+<img width="1818" height="886" alt="2" src="https://github.com/user-attachments/assets/4b98babc-c819-4f01-976f-2d8a62216e9f" />
+
+
+        <img width="1843" height="916" alt="1" src="https://github.com/user-attachments/assets/c43822ed-7e7b-446f-8ab9-9bb3b667eca0" />
+
+      </td>
+     
+    </tr>
+  </table>
+</details>
+
+---
+
 ### 🎓 Education & Credentials
 
 * **Bachelor’s Degree in Informatics Engineering**
@@ -103,11 +148,10 @@ Informatics Engineer specializing in building robust, performant web application
 ### 📈 GitHub Profile Analytics
 <p align="left">
   <img src="https://vercel.app" alt="Eman's GitHub Stats" />
+  <img src="https://vercel.app" alt="Top Languages" />
 </p>
 
 ---
-<img width="509" height="904" alt="1-m" src="https://github.com/user-attachments/assets/d119ab3f-f4f0-4401-ae52-e3cccd891841" />
-
 
 ### 📫 Let's Connect!
 - 📧 **Email:** [eman98.eng@gmail.com](mailto:eman98.eng@gmail.com)
