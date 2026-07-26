@@ -95,65 +95,37 @@ Informatics Engineer specializing in building robust, performant web application
 <details open>
   <summary><b>📺 Production Web Applications Gallery</b></summary>
   <br>
-
-  #### 🌐 OswaTech Corporate Website
-  *Pixel-perfect corporate identity platform and responsive interface.*
-
-  <p align="center">
-    <img src="./oswa1.png" alt="OswaTech Homepage" width="90%" />
-  </p>
-  <br>
-  <p align="center">
-    <img src="./oswa2.png" alt="OswaTech About Section" width="90%" />
-  </p>
-  <br>
-  <p align="center">
-    <img src="./oswa3.png" alt="OswaTech Internal Page" width="90%" />
-  </p>
-  <br>
-  <p align="center">
-    <img src="./oswa4.png" alt="OswaTech Core Feature" width="90%" />
-  </p>
-  <br>
-  <p align="center">
-    <img src="./oswa5.png" alt="OswaTech Portfolio Section" width="90%" />
-  </p>
-  <br>
-  <p align="center">
-    <img src="./oswa_m1.png" alt="OswaTech Mobile 1" width="43%" />
-    &nbsp;&nbsp;&nbsp;&nbsp;
-    <img src="./oswa_m2.png" alt="OswaTech Mobile 2" width="43%" />
-  </p>
-
-  ---
-
-  #### 💼 Job Recruitment Platform & Dashboard
-  *Advanced recruitment ecosystem and data analytics statistics management panel.*
-
-  <p align="center">
-    <img src="./job1.png" alt="Job Dashboard UI" width="90%" />
-  </p>
-  <br>
-  <p align="center">
-    <img src="./job2.png" alt="Job Management Panel" width="90%" />
-  </p>
-  <br>
-  <p align="center">
-    <img src="./job3.png" alt="Job Statistics" width="90%" />
-  </p>
-  <br>
-  <p align="center">
-    <img src="./job4.png" alt="Job Interface View" width="90%" />
-  </p>
-  <br>
-  <p align="center">
-    <img src="./job5.png" alt="Job Search Interface" width="90%" />
-  </p>
-  <br>
-  <p align="center">
-    <img src="./job_m1.png" alt="Job Mobile Analytics" width="45%" />
-  </p>
-
+  <p align="center"><i>A unified showcase of production-ready Angular applications, dashboards, and responsive platforms.</i></p>
+  
+  <table align="center" border="0" width="100%">
+    <tr>
+      <td align="center" width="50%" valign="top">
+        <b>OswaTech Corporate Website</b><br><i>Pixel-perfect corporate identity application</i><br><br>
+        <img src="https://github.com/user-attachments/assets/ee172943-7bb3-4635-8082-43328dc9bbf1" alt="OswaTech Homepage" width="100%" style="border-radius: 6px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin-bottom: 8px;" />
+        <img src="https://github.com/user-attachments/assets/5b93f687-df2c-4b11-aec3-c052fe4ee260" alt="OswaTech About Section" width="100%" style="border-radius: 6px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin-bottom: 8px;" />
+        <img src="https://github.com/user-attachments/assets/c83d0808-ec0e-4705-8298-18fef34caf61" alt="OswaTech Internal Page" width="100%" style="border-radius: 6px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin-bottom: 8px;" />
+        <img src="https://github.com/user-attachments/assets/78d73f8c-669f-4155-8209-7b05d7262a5c" alt="OswaTech Core Feature" width="100%" style="border-radius: 6px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin-bottom: 8px;" />
+        <img src="https://github.com/user-attachments/assets/467bd2d9-9b41-4f36-8a3d-b7d6135235e9" alt="OswaTech Portfolio Section" width="100%" style="border-radius: 6px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin-bottom: 8px;" />
+        <table border="0" width="100%">
+          <tr>
+            <td width="50%"><img src="https://github.com/user-attachments/assets/5c3558c2-5d02-405a-8d77-98c16ba3558c" alt="OswaTech Mobile 1" width="100%" style="border-radius: 6px;" /></td>
+            <td width="50%"><img src="https://github.com/user-attachments/assets/6e61a3d6-671a-4849-8c43-f72b8f9fce7d" alt="OswaTech Mobile 2" width="100%" style="border-radius: 6px;" /></td>
+          </tr>
+        </table>
+      </td>
+      <td align="center" width="50%" valign="top">
+        <b>Job Recruitment Platform & Dashboard</b><br><i>Responsive recruitment ecosystem and analytics interface</i><br><br>
+        <img src="https://github.com/user-attachments/assets/3178d8d6-d449-43ed-a600-0d3c56493c36" alt="Job Dashboard UI" width="100%" style="border-radius: 6px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin-bottom: 8px;" />
+        <img src="https://github.com/user-attachments/assets/a2b83e87-4adb-45e2-a521-33ecea123898" alt="Job Management Panel" width="100%" style="border-radius: 6px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin-bottom: 8px;" />
+        <img src="https://github.com/user-attachments/assets/5c5d3f77-28fa-4f59-858e-e2b527d47d00" alt="Job Statistics" width="100%" style="border-radius: 6px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin-bottom: 8px;" />
+        <img src="https://github.com/user-attachments/assets/4b98babc-c819-4f01-976f-2d8a62216e9f" alt="Job Interface View" width="100%" style="border-radius: 6px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin-bottom: 8px;" />
+        <img src="https://github.com/user-attachments/assets/c43822ed-7e7b-446f-8ab9-9bb3b667eca0" alt="Job Search Interface" width="100%" style="border-radius: 6px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin-bottom: 8px;" />
+        <p align="center">
+          <img src="https://github.com/user-attachments/assets/637daf2e-009b-4f0c-a7ea-47ef503595a2" alt="Job Mobile Analytics" width="50%" style="border-radius: 6px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
+        </p>
+      </td>
+    </tr>
+  </table>
 </details>
 
 ---
