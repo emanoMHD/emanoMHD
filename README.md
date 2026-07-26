@@ -101,28 +101,49 @@ Informatics Engineer specializing in building robust, performant web application
     <tr>
       <td align="center" width="50%" valign="top">
         <b>OswaTech Corporate Website</b><br><i>Pixel-perfect corporate identity application</i><br><br>
-        <img src="https://github.com" alt="OswaTech Homepage" width="100%" style="border-radius: 6px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin-bottom: 24px; display: block;" />
-        <img src="https://github.com" alt="OswaTech About Section" width="100%" style="border-radius: 6px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin-bottom: 24px; display: block;" />
-        <img src="https://github.com" alt="OswaTech Internal Page" width="100%" style="border-radius: 6px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin-bottom: 24px; display: block;" />
-        <img src="https://github.com" alt="OswaTech Core Feature" width="100%" style="border-radius: 6px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin-bottom: 24px; display: block;" />
-        <img src="https://github.com" alt="OswaTech Portfolio Section" width="100%" style="border-radius: 6px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin-bottom: 24px; display: block;" />
+        <p align="center">
+          <img src="https://github.com" alt="OswaTech Homepage" width="100%" />
+        </p>
+        <p align="center">
+          <img src="https://github.com" alt="OswaTech About Section" width="100%" />
+        </p>
+        <p align="center">
+          <img src="https://github.com" alt="OswaTech Internal Page" width="100%" />
+        </p>
+        <p align="center">
+          <img src="https://github.com" alt="OswaTech Core Feature" width="100%" />
+        </p>
+        <p align="center">
+          <img src="https://github.com" alt="OswaTech Portfolio Section" width="100%" />
+        </p>
         <table border="0" width="100%">
           <tr>
-            <td width="50%"><img src="https://github.com" alt="OswaTech Mobile 1" width="100%" style="border-radius: 6px;" /></td>
-            <td width="50%"><img src="https://github.com" alt="OswaTech Mobile 2" width="100%" style="border-radius: 6px;" /></td>
+            <td width="48%"><img src="https://github.com" alt="OswaTech Mobile 1" width="100%" /></td>
+            <td width="4%"></td>
+            <td width="48%"><img src="https://github.com" alt="OswaTech Mobile 2" width="100%" /></td>
           </tr>
         </table>
       </td>
       <td align="center" width="50%" valign="top">
         <b>Job Recruitment Platform & Dashboard</b><br><i>Responsive recruitment ecosystem and analytics interface</i><br><br>
-        <img src="https://github.com" alt="Job Dashboard UI" width="100%" style="border-radius: 6px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin-bottom: 24px; display: block;" />
-        <img src="https://github.com" alt="Job Management Panel" width="100%" style="border-radius: 6px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin-bottom: 24px; display: block;" />
-        <img src="https://github.com" alt="Job Statistics" width="100%" style="border-radius: 6px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin-bottom: 24px; display: block;" />
-        <img src="https://github.com" alt="Job Interface View" width="100%" style="border-radius: 6px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin-bottom: 24px; display: block;" />
-        <img src="https://github.com" alt="Job Search Interface" width="100%" style="border-radius: 6px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin-bottom: 24px; display: block;" />
         <p align="center">
-          <img src="https://github.com" alt="Job Mobile Analytics" width="50%" style="border-radius: 6px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
-         </p>
+          <img src="https://github.com" alt="Job Dashboard UI" width="100%" />
+        </p>
+        <p align="center">
+          <img src="https://github.com" alt="Job Management Panel" width="100%" />
+        </p>
+        <p align="center">
+          <img src="https://github.com" alt="Job Statistics" width="100%" />
+        </p>
+        <p align="center">
+          <img src="https://github.com" alt="Job Interface View" width="100%" />
+        </p>
+        <p align="center">
+          <img src="https://github.com" alt="Job Search Interface" width="100%" />
+        </p>
+        <p align="center">
+          <img src="https://github.com" alt="Job Mobile Analytics" width="50%" />
+        </p>
       </td>
     </tr>
   </table>
@@ -149,4 +170,6 @@ Informatics Engineer specializing in building robust, performant web application
 ---
 
 ### 📫 Let's Connect!
-📧 Email: eman98.eng@gmail.com📍 Location: Damascus, Syria🌐 Languages: Arabic (Native) | English (Professional Working)
+- 📧 **Email:** [eman98.eng@gmail.com](mailto:eman98.eng@gmail.com)
+- 📍 **Location:** Damascus, Syria
+- 🌐 **Languages:** Arabic (Native) | English (Professional Working)
