@@ -95,37 +95,41 @@ Passionate about the Angular ecosystem, state management, and web performance op
 ### 🏢 OswaTech Corporate Website
 *Pixel-perfect corporate identity application*
 
+<!--OSWA_START-->
 #### 🖥️ Desktop
 
 <table>
-<tr><td width="50%" align="center"><img src="oswatech-01-home.jpg" alt="Home – Hero" width="100%"/><br/><sub><b>Home – Hero</b></sub></td><td width="50%" align="center"><img src="oswatech-02-about.jpg" alt="About Us" width="100%"/><br/><sub><b>About Us</b></sub></td></tr>
-<tr><td width="50%" align="center"><img src="oswatech-03-mission-services.jpg" alt="Mission, Vision & Services" width="100%"/><br/><sub><b>Mission, Vision & Services</b></sub></td><td width="50%" align="center"><img src="oswatech-04-portfolio.jpg" alt="Our Portfolio" width="100%"/><br/><sub><b>Our Portfolio</b></sub></td></tr>
-<tr><td width="50%" align="center"><img src="oswatech-05-contact.jpg" alt="Contact Us" width="100%"/><br/><sub><b>Contact Us</b></sub></td><td width="50%" align="center"><img src="oswatech-06-contact-footer.jpg" alt="Map & Footer" width="100%"/><br/><sub><b>Map & Footer</b></sub></td></tr>
+<tr><td width="50%" align="center"><img src="assets/oswatech/01-home.jpg" alt="Home – Hero" width="100%"/><br/><sub><b>Home – Hero</b></sub></td><td width="50%" align="center"><img src="assets/oswatech/02-about.jpg" alt="About Us" width="100%"/><br/><sub><b>About Us</b></sub></td></tr>
+<tr><td width="50%" align="center"><img src="assets/oswatech/03-mission-services.jpg" alt="Mission, Vision & Services" width="100%"/><br/><sub><b>Mission, Vision & Services</b></sub></td><td width="50%" align="center"><img src="assets/oswatech/04-portfolio.jpg" alt="Our Portfolio" width="100%"/><br/><sub><b>Our Portfolio</b></sub></td></tr>
+<tr><td width="50%" align="center"><img src="assets/oswatech/05-contact.jpg" alt="Contact Us" width="100%"/><br/><sub><b>Contact Us</b></sub></td><td width="50%" align="center"><img src="assets/oswatech/06-contact-footer.jpg" alt="Map & Footer" width="100%"/><br/><sub><b>Map & Footer</b></sub></td></tr>
 </table>
 
 #### 📱 Mobile (fully responsive)
 
 <table>
-<tr><td width="25%" align="center"><img src="oswatech-m01-home.jpg" alt="Home" width="100%"/><br/><sub>Home</sub></td><td width="25%" align="center"><img src="oswatech-m02-hero-app.jpg" alt="Hero App Preview" width="100%"/><br/><sub>Hero App Preview</sub></td><td width="25%" align="center"><img src="oswatech-m03-about.jpg" alt="About Us" width="100%"/><br/><sub>About Us</sub></td><td width="25%" align="center"><img src="oswatech-m04-mission-vision.jpg" alt="Mission & Vision" width="100%"/><br/><sub>Mission & Vision</sub></td></tr>
-<tr><td width="25%" align="center"><img src="oswatech-m05-services.jpg" alt="Services" width="100%"/><br/><sub>Services</sub></td><td width="25%" align="center"><img src="oswatech-m06-contact.jpg" alt="Contact" width="100%"/><br/><sub>Contact</sub></td><td width="25%" align="center"><img src="oswatech-m07-contact-form.jpg" alt="Contact Form" width="100%"/><br/><sub>Contact Form</sub></td><td width="25%" align="center"><img src="oswatech-m08-footer.jpg" alt="Footer" width="100%"/><br/><sub>Footer</sub></td></tr>
+<tr><td width="25%" align="center"><img src="assets/oswatech/m01-home.jpg" alt="Home" width="100%"/><br/><sub>Home</sub></td><td width="25%" align="center"><img src="assets/oswatech/m02-hero-app.jpg" alt="Hero App Preview" width="100%"/><br/><sub>Hero App Preview</sub></td><td width="25%" align="center"><img src="assets/oswatech/m03-about.jpg" alt="About Us" width="100%"/><br/><sub>About Us</sub></td><td width="25%" align="center"><img src="assets/oswatech/m04-mission-vision.jpg" alt="Mission & Vision" width="100%"/><br/><sub>Mission & Vision</sub></td></tr>
+<tr><td width="25%" align="center"><img src="assets/oswatech/m05-services.jpg" alt="Services" width="100%"/><br/><sub>Services</sub></td><td width="25%" align="center"><img src="assets/oswatech/m06-contact.jpg" alt="Contact" width="100%"/><br/><sub>Contact</sub></td><td width="25%" align="center"><img src="assets/oswatech/m07-contact-form.jpg" alt="Contact Form" width="100%"/><br/><sub>Contact Form</sub></td><td width="25%" align="center"><img src="assets/oswatech/m08-footer.jpg" alt="Footer" width="100%"/><br/><sub>Footer</sub></td></tr>
 </table>
+<!--OSWA_END-->
 
 ### 💼 Marmaz Job – Job Recruitment Platform
 *Bilingual (Arabic RTL / English) recruitment platform for job seekers and companies*
 
+<!--JOB_START-->
 #### 🖥️ Desktop (Arabic RTL + English)
 
 <table>
-<tr><td width="50%" align="center"><img src="job-01-home.jpg" alt="Home & Job Search" width="100%"/><br/><sub><b>Home & Job Search</b></sub></td><td width="50%" align="center"><img src="job-02-jobs.jpg" alt="Browse by Country & Latest Jobs" width="100%"/><br/><sub><b>Browse by Country & Latest Jobs</b></sub></td></tr>
-<tr><td width="50%" align="center"><img src="job-03-mobile-app.jpg" alt="Mobile App Section" width="100%"/><br/><sub><b>Mobile App Section</b></sub></td><td width="50%" align="center"><img src="job-04-register.jpg" alt="Registration (Employee / Company)" width="100%"/><br/><sub><b>Registration (Employee / Company)</b></sub></td></tr>
-<tr><td width="50%" align="center"><img src="job-05-contact.jpg" alt="Contact Page" width="100%"/><br/><sub><b>Contact Page</b></sub></td></tr>
+<tr><td width="50%" align="center"><img src="assets/job/01-home.jpg" alt="Home & Job Search" width="100%"/><br/><sub><b>Home & Job Search</b></sub></td><td width="50%" align="center"><img src="assets/job/02-jobs.jpg" alt="Browse by Country & Latest Jobs" width="100%"/><br/><sub><b>Browse by Country & Latest Jobs</b></sub></td></tr>
+<tr><td width="50%" align="center"><img src="assets/job/03-mobile-app.jpg" alt="Mobile App Section" width="100%"/><br/><sub><b>Mobile App Section</b></sub></td><td width="50%" align="center"><img src="assets/job/04-register.jpg" alt="Registration (Employee / Company)" width="100%"/><br/><sub><b>Registration (Employee / Company)</b></sub></td></tr>
+<tr><td width="50%" align="center"><img src="assets/job/05-contact.jpg" alt="Contact Page" width="100%"/><br/><sub><b>Contact Page</b></sub></td></tr>
 </table>
 
 #### 📱 Mobile
 
 <table>
-<tr><td width="25%" align="center"><img src="job-m06-home.jpg" alt="Home" width="100%"/><br/><sub>Home</sub></td></tr>
+<tr><td width="25%" align="center"><img src="assets/job/m06-home.jpg" alt="Home" width="100%"/><br/><sub>Home</sub></td></tr>
 </table>
+<!--JOB_END-->
 
 ---
 
