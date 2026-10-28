@@ -1,154 +1,159 @@
+<div align="center">
+
 # Hi there, I'm Eman Mohammad! 👋
+
 ### 🚀 Angular Developer & Software Engineer
 
-Informatics Engineer specializing in building robust, performant web applications. Passionate about Angular ecosystem, state management, and web performance optimization.
+Informatics Engineer specializing in building robust, performant web applications.
+Passionate about the Angular ecosystem, state management, and web performance optimization.
+
+[![Email](https://img.shields.io/badge/Email-eman98.eng@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eman98.eng@gmail.com)
+![Location](https://img.shields.io/badge/Location-Damascus%2C%20Syria-0A66C2?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
+</div>
 
 ---
 
-### 🛠️ Tech Stack & Skills
+## 🛠️ Tech Stack & Skills
 
-<table>
-  <tr>
-    <td><b>Frontend</b></td>
-    <td>
-      <img src="https://shields.io" alt="Angular" />
-      <img src="https://shields.io" alt="TypeScript" />
-      <img src="https://shields.io" alt="JavaScript" />
-      <img src="https://shields.io" alt="RxJS" />
-      <img src="https://shields.io" alt="HTML5" />
-      <img src="https://shields.io" alt="CSS3" />
-      <img src="https://shields.io" alt="Tailwind" />
-      <img src="https://shields.io" alt="Bootstrap" />
-      <img src="https://shields.io" alt="jQuery" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Backend & Databases</b></td>
-    <td>
-      <img src="https://shields.io" alt="Laravel" />
-      <img src="https://shields.io" alt="ASP.NET" />
-      <img src="https://shields.io" alt="C#" />
-      <img src="https://shields.io" alt="Java" />
-      <img src="https://shields.io" alt="MySQL" />
-      <img src="https://shields.io" alt="SQL Server" />
-      <img src="https://shields.io" alt="Oracle" />
-    </td>
-  </tr>
-  <tr>
-    <td><b>Tools & Architecture</b></td>
-    <td>
-      <img src="https://shields.io" alt="GitHub" />
-      <img src="https://shields.io" alt="NgRx" />
-      <img src="https://shields.io" alt="Camunda" />
-      <img src="https://shields.io" alt="Figma" />
-    </td>
-  </tr>
-</table>
+**Frontend**
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=flat-square&logo=jquery&logoColor=white)
+
+**Backend & Databases**
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+
+**Tools & Architecture**
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![NgRx](https://img.shields.io/badge/NgRx-BA2BD2?style=flat-square&logo=ngrx&logoColor=white)
+![Camunda](https://img.shields.io/badge/Camunda-FC5D0D?style=flat-square&logo=camunda&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
 ---
 
-### 💼 Work Experience
+## 💼 Work Experience
 
-#### 💻 **Angular Developer** | **Phinexes** *(Jan 2026 – Present)*
+### 💻 Angular Developer | Phinexes *(Jan 2026 – Present)*
 - Leading advanced frontend performance tuning initiatives.
 - Architecting adaptive core layout web features.
-- Successfully eliminating **Cumulative Layout Shift (CLS)** and achieving **100% Lighthouse Performance scores** on major production page templates using sequential `@defer` rendering strategies.
+- Eliminated Cumulative Layout Shift (CLS) and achieved **100% Lighthouse Performance** scores on major production page templates using sequential `@defer` rendering strategies.
 
-#### 🏦 **Angular Developer** | **Smart Soft** *(Nov 2024 – Present)*
-- Developing core banking systems leveraging the Angular Framework.
+### 🏦 Angular Developer | Smart Soft *(Nov 2024 – Present)*
+- Developing core banking systems with the Angular framework.
 - Integrating services with a Spring Boot backend infrastructure.
-- Utilizing Camunda for advanced business process and state management workflow orchestrations.
+- Using Camunda for business process and state-management workflow orchestration.
 
-#### 🌐 **Angular Developer** | **OswaTech** *(Jun 2022 – Dec 2024)*
-- Built clean responsive interfaces by pixel-perfectly converting Figma and Adobe XD UI/UX designs into fully modular Angular applications.
+### 🌐 Angular Developer | OswaTech *(Jun 2022 – Dec 2024)*
+- Built clean, responsive interfaces by pixel-perfectly converting Figma and Adobe XD designs into fully modular Angular applications.
 - Integrated RESTful APIs and optimized state synchronization pipelines.
 - Developed the following major projects:
-  1. *Izar CRM* (Real Estate Management)
-  2. *Rayyan Exchange* & *Rayyan Exchange Dashboard*
-  3. *Job Website* & *Job Dashboard*
-  4. *Sallah Soft Dashboard*
-  5. *Golden Wheat Website*
-  6. *Fashion E-Commerce Website*
-  7. *OswaTech Corporate Website*
+  - **Izar CRM** (Real Estate Management)
+  - **Rayyan Exchange** & Rayyan Exchange Dashboard
+  - **Job Website** & Job Dashboard
+  - **Sallah Soft** Dashboard
+  - **Golden Wheat** Website
+  - **Fashion E-Commerce** Website
+  - **OswaTech** Corporate Website
 
-#### 🔌 **Fullstack Developer** | **Remote (ASP.NET & PHP)** *(Dec 2021 – Feb 2022)*
-- Developed dynamic end-to-end web architectures using Java, ASP.NET, and Laravel Frameworks across both backend data structures and frontend layers.
-
----
-
-### 🚀 Highlighted Personal Projects
-
-* **Project 1: Intelligent E-Commerce Web App**
-  - *Tech Stack:* Laravel, HTML5, CSS3, JavaScript, Bootstrap, MySQL.
-  - *Feature:* Integrated a custom recommendation algorithm to display the right products to targeted users based on behavior profiles.
-* **Project 2: Smart IoT Home Automation Controller**
-  - *Tech Stack:* C# ASP.NET Entity Framework, MS SQL Server, jQuery, Bootstrap, Arduino Hardware.
-  - *Feature:* Engineered live telemetry rules to control, schedule, and monitor hardware smart-home appliances over web protocols.
-* **Project 3: Chess Engine & Game Application**
-  - *Tech Stack:* Java Desktop Application.
-  - *Feature:* Implemented a standalone interactive chessboard game driven by the Minimax artificial intelligence decision tree algorithm.
+### 🔌 Fullstack Developer | Remote (ASP.NET & PHP) *(Dec 2021 – Feb 2022)*
+- Developed dynamic end-to-end web architectures using Java, ASP.NET, and Laravel across backend data structures and frontend layers.
 
 ---
 
-### 📸 Featured Project Showcases
+## 🚀 Highlighted Personal Projects
 
-<details open>
-  <summary><b>📺 Production Web Applications Gallery</b></summary>
-  <br>
-  <p align="center"><i>A unified showcase of production-ready Angular applications, dashboards, and responsive platforms.</i></p>
-  
-  <table align="center" border="0" width="100%">
-    <tr>
-      <td align="center" width="50%" valign="top">
-        <b>OswaTech Corporate Website</b><br><i>Pixel-perfect corporate identity application</i><br><br>
-        <img src="https://github.com/user-attachments/assets/ee172943-7bb3-4635-8082-43328dc9bbf1" alt="OswaTech Homepage" width="100%" style="border-radius: 6px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin-bottom: 8px;" />
-        <img src="https://github.com/user-attachments/assets/5b93f687-df2c-4b11-aec3-c052fe4ee260" alt="OswaTech About Section" width="100%" style="border-radius: 6px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin-bottom: 8px;" />
-        <img src="https://github.com/user-attachments/assets/c83d0808-ec0e-4705-8298-18fef34caf61" alt="OswaTech Internal Page" width="100%" style="border-radius: 6px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin-bottom: 8px;" />
-        <img src="https://github.com/user-attachments/assets/78d73f8c-669f-4155-8209-7b05d7262a5c" alt="OswaTech Core Feature" width="100%" style="border-radius: 6px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin-bottom: 8px;" />
-        <img src="https://github.com/user-attachments/assets/467bd2d9-9b41-4f36-8a3d-b7d6135235e9" alt="OswaTech Portfolio Section" width="100%" style="border-radius: 6px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin-bottom: 8px;" />
-        <table border="0" width="100%">
-          <tr>
-            <td width="50%"><img src="https://github.com/user-attachments/assets/5c3558c2-5d02-405a-8d77-98c16ba3558c" alt="OswaTech Mobile 1" width="100%" style="border-radius: 6px;" /></td>
-            <td width="50%"><img src="https://github.com/user-attachments/assets/6e61a3d6-671a-4849-8c43-f72b8f9fce7d" alt="OswaTech Mobile 2" width="100%" style="border-radius: 6px;" /></td>
-          </tr>
-        </table>
-      </td>
-      <td align="center" width="50%" valign="top">
-        <b>Job Recruitment Platform & Dashboard</b><br><i>Responsive recruitment ecosystem and analytics interface</i><br><br>
-        <img src="https://github.com/user-attachments/assets/3178d8d6-d449-43ed-a600-0d3c56493c36" alt="Job Dashboard UI" width="100%" style="border-radius: 6px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin-bottom: 8px;" />
-        <img src="https://github.com/user-attachments/assets/a2b83e87-4adb-45e2-a521-33ecea123898" alt="Job Management Panel" width="100%" style="border-radius: 6px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin-bottom: 8px;" />
-        <img src="https://github.com/user-attachments/assets/5c5d3f77-28fa-4f59-858e-e2b527d47d00" alt="Job Statistics" width="100%" style="border-radius: 6px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin-bottom: 8px;" />
-        <img src="https://github.com/user-attachments/assets/4b98babc-c819-4f01-976f-2d8a62216e9f" alt="Job Interface View" width="100%" style="border-radius: 6px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin-bottom: 8px;" />
-        <img src="https://github.com/user-attachments/assets/c43822ed-7e7b-446f-8ab9-9bb3b667eca0" alt="Job Search Interface" width="100%" style="border-radius: 6px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); margin-bottom: 8px;" />
-        <p align="center">
-          <img src="https://github.com/user-attachments/assets/637daf2e-009b-4f0c-a7ea-47ef503595a2" alt="Job Mobile Analytics" width="50%" style="border-radius: 6px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);" />
-        </p>
-      </td>
-    </tr>
-  </table>
-</details>
+| Project | Tech Stack | Highlight |
+|---|---|---|
+| 🛒 **Intelligent E-Commerce Web App** | Laravel, HTML5, CSS3, JavaScript, Bootstrap, MySQL | Custom recommendation algorithm that shows the right products to users based on behavior profiles |
+| 🏠 **Smart IoT Home Automation Controller** | C# ASP.NET, Entity Framework, SQL Server, jQuery, Bootstrap, Arduino | Live telemetry rules to control, schedule, and monitor smart-home appliances over web protocols |
+| ♟️ **Chess Engine & Game App** | Java Desktop | Standalone interactive chessboard driven by the Minimax AI decision-tree algorithm |
 
 ---
 
-### 🎓 Education & Credentials
+## 📸 Featured Project Showcases
 
-* **Bachelor’s Degree in Informatics Engineering**
-  - *Specialization:* Software Engineering | **Damascus University** *(Jan 2016 – Dec 2021)*
-  - *Grade:* 72%
-* **Advanced Engineering Training Courses:**
-  - C++ and Core Java Desktop Architectures | Damascus University *(July 2022)*
+> A showcase of production-ready Angular applications, dashboards, and responsive platforms.
+
+### 🏢 OswaTech Corporate Website
+*Pixel-perfect corporate identity application*
+
+<!--OSWA_START-->
+#### 🖥️ Desktop
+
+<table>
+<tr><td width="50%" align="center"><img src="assets/oswatech/01-home.jpg" alt="Home – Hero" width="100%"/><br/><sub><b>Home – Hero</b></sub></td><td width="50%" align="center"><img src="assets/oswatech/02-about.jpg" alt="About Us" width="100%"/><br/><sub><b>About Us</b></sub></td></tr>
+<tr><td width="50%" align="center"><img src="assets/oswatech/03-mission-services.jpg" alt="Mission, Vision & Services" width="100%"/><br/><sub><b>Mission, Vision & Services</b></sub></td><td width="50%" align="center"><img src="assets/oswatech/04-portfolio.jpg" alt="Our Portfolio" width="100%"/><br/><sub><b>Our Portfolio</b></sub></td></tr>
+<tr><td width="50%" align="center"><img src="assets/oswatech/05-contact.jpg" alt="Contact Us" width="100%"/><br/><sub><b>Contact Us</b></sub></td><td width="50%" align="center"><img src="assets/oswatech/06-contact-footer.jpg" alt="Map & Footer" width="100%"/><br/><sub><b>Map & Footer</b></sub></td></tr>
+</table>
+
+#### 📱 Mobile (fully responsive)
+
+<table>
+<tr><td width="25%" align="center"><img src="assets/oswatech/m01-home.jpg" alt="Home" width="100%"/><br/><sub>Home</sub></td><td width="25%" align="center"><img src="assets/oswatech/m02-hero-app.jpg" alt="Hero App Preview" width="100%"/><br/><sub>Hero App Preview</sub></td><td width="25%" align="center"><img src="assets/oswatech/m03-about.jpg" alt="About Us" width="100%"/><br/><sub>About Us</sub></td><td width="25%" align="center"><img src="assets/oswatech/m04-mission-vision.jpg" alt="Mission & Vision" width="100%"/><br/><sub>Mission & Vision</sub></td></tr>
+<tr><td width="25%" align="center"><img src="assets/oswatech/m05-services.jpg" alt="Services" width="100%"/><br/><sub>Services</sub></td><td width="25%" align="center"><img src="assets/oswatech/m06-contact.jpg" alt="Contact" width="100%"/><br/><sub>Contact</sub></td><td width="25%" align="center"><img src="assets/oswatech/m07-contact-form.jpg" alt="Contact Form" width="100%"/><br/><sub>Contact Form</sub></td><td width="25%" align="center"><img src="assets/oswatech/m08-footer.jpg" alt="Footer" width="100%"/><br/><sub>Footer</sub></td></tr>
+</table>
+<!--OSWA_END-->
+
+### 💼 Marmaz Job – Job Recruitment Platform
+*Bilingual (Arabic RTL / English) recruitment platform for job seekers and companies*
+
+<!--JOB_START-->
+#### 🖥️ Desktop (Arabic RTL + English)
+
+<table>
+<tr><td width="50%" align="center"><img src="assets/job/01-home.jpg" alt="Home & Job Search" width="100%"/><br/><sub><b>Home & Job Search</b></sub></td><td width="50%" align="center"><img src="assets/job/02-jobs.jpg" alt="Browse by Country & Latest Jobs" width="100%"/><br/><sub><b>Browse by Country & Latest Jobs</b></sub></td></tr>
+<tr><td width="50%" align="center"><img src="assets/job/03-mobile-app.jpg" alt="Mobile App Section" width="100%"/><br/><sub><b>Mobile App Section</b></sub></td><td width="50%" align="center"><img src="assets/job/04-register.jpg" alt="Registration (Employee / Company)" width="100%"/><br/><sub><b>Registration (Employee / Company)</b></sub></td></tr>
+<tr><td width="50%" align="center"><img src="assets/job/05-contact.jpg" alt="Contact Page" width="100%"/><br/><sub><b>Contact Page</b></sub></td></tr>
+</table>
+
+#### 📱 Mobile
+
+<table>
+<tr><td width="25%" align="center"><img src="assets/job/m06-home.jpg" alt="Home" width="100%"/><br/><sub>Home</sub></td></tr>
+</table>
+<!--JOB_END-->
 
 ---
 
-### 📈 GitHub Profile Analytics
-<p align="left">
-  <img src="https://vercel.app" alt="Eman's GitHub Stats" />
-  <img src="https://vercel.app" alt="Top Languages" />
-</p>
+## 🎓 Education & Credentials
+
+- **Bachelor’s Degree in Informatics Engineering** — Specialization: Software Engineering
+  Damascus University *(Jan 2016 – Dec 2021)* · Grade: 72%
+- **C++ and Core Java Desktop Architectures** — Damascus University *(July 2022)*
 
 ---
 
-### 📫 Let's Connect!
+## 📈 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="Eman's GitHub Stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+</div>
+
+---
+
+## 📫 Let's Connect!
+
 - 📧 **Email:** [eman98.eng@gmail.com](mailto:eman98.eng@gmail.com)
 - 📍 **Location:** Damascus, Syria
-- 🌐 **Languages:** Arabic (Native) | English (Professional Working)
+- 🌐 **Languages:** Arabic (Native) · English (Professional Working)
